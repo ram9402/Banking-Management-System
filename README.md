@@ -1,2 +1,3 @@
 # Banking-Management-System
-This is a simple Banking Management System developed in Java that simulates basic banking operations such as account creation, deposit, withdrawal, and balance inquiry. It showcases the use of OOP concepts like inheritance, encapsulation, and polymorphism.
+This is a Java-based Banking Management System that demonstrates real-world banking operations using Object-Oriented Programming (OOP) principles and Java Collections Framework — particularly the use of Map (e.g., HashMap, TreeMap) to manage customer accounts efficiently.
+
